@@ -29,7 +29,7 @@ media
 *$py.class
 
 # Distribution / packaging
-.Python build/
+git com.Python build/
 develop-eggs/
 dist/
 downloads/
@@ -78,7 +78,7 @@ celerybeat-schedule.*
 # Environments
 .env
 .venv
-env/
+env3/
 venv/
 ENV/
 env.bak/
